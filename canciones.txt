@@ -3,6 +3,9 @@ Titanium
 Bienvenidos al tren de javascript
 
 Usted es la culpable
+
+sarasa bug
+
 Culpable o no
 
 Ahora Otra persona llamese Facu hace un arreglo
