@@ -8,3 +8,6 @@ sarasa bug
 
 Culpable o no
 
+Ahora Otra persona llamese Facu hace un arreglo
+sobre main. o mergea una rama en la que
+habia un bug.
