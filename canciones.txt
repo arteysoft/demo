@@ -4,3 +4,7 @@ Bienvenidos al tren de javascript
 
 Usted es la culpable
 Culpable o no
+
+Ahora Otra persona llamese Facu hace un arreglo
+sobre main. o mergea una rama en la que
+habia un bug.
